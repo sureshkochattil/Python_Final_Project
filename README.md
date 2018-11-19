@@ -1,3 +1,12 @@
 # Python_Final_Project
-Python Basics project - Phase 1
-Guys...We need to fill this later....
+Team members: Senthil Esakiappan, Govind Babhulgaonkar, Suresh Kochattil
+Phase 1
+Contributions (Senthil)
+1. Independently created the code
+2. Participated in team meetings to discuss and improve code
+Contributions (Govind)
+1. Independently created the code
+2. Contributed in setting up GitHub on desktop 
+Contributions (Suresh)
+1. Independently created the code
+2. Created GitHub
