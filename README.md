@@ -14,3 +14,5 @@ Phase 1 Contributions
 (Suresh)
 1. Independently created the code
 2. Created GitHub
+
+The team members first worked on the codes independently. We then discussed the codes for improvement based on what was optimum in each one's codes. The creation and use of GitHub was again discussed and the team came up with the final version.
