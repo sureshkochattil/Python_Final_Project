@@ -1,6 +1,22 @@
 # Python_Final_Project
 Team members: Senthil Esakiappan, Govind Babhulgaonkar, Suresh Kochattil
 
+Phase 3 Contributions:
+
+(Senthil)
+1. Independently created the code
+2. Participated in in-person team meetins to discuss and improve code
+
+(Govind)
+1. Independently created the code
+2. Participated in in-person team meetins to discuss and improve code
+3. Updating GitHub on desktop 
+
+(Suresh)
+1. Independently created the code
+2. Participated in in-person team meetins to discuss and improve code
+3. Updated Github
+
 Phase 2 Contributions
 
 (Senthil)
@@ -35,3 +51,4 @@ he code
 2. Created GitHub
 
 The team members first worked on the codes independently. We then discussed the codes for improvement based on what was optimum in each one's codes. The creation and use of GitHub was again discussed and the team came up with the final version.
+
